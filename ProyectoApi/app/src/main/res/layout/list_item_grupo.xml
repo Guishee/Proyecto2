@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txt_grupo_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grupo Id: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txt_curs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txt_aula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aula: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txt_cicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cicle: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txt_grup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grup: "
+        android:textSize="16sp" />
+
+</LinearLayout>
